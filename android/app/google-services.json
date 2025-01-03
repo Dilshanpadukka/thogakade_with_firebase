@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "648996619467",
+    "project_id": "thoga-kade",
+    "storage_bucket": "thoga-kade.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648996619467:android:f903fabd5b542110f7c74e",
+        "android_client_info": {
+          "package_name": "com.icet.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5AOjqFB7QDPfyOB6wU_dcuCzJND0fIcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
